@@ -1,0 +1,17 @@
+C:\Users\alisa\source\repos\DemirbaşListeleme\bin\Debug\DemirbaşListeleme.exe.config
+C:\Users\alisa\source\repos\DemirbaşListeleme\bin\Debug\DemirbaşListeleme.exe
+C:\Users\alisa\source\repos\DemirbaşListeleme\bin\Debug\DemirbaşListeleme.pdb
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.Properties.Resources.resources
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.csproj.GenerateResource.cache
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.exe
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.pdb
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.FrmGiris.resources
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.FrmKayit.resources
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.FrmAnaSayfa.resources
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.FrmMalList.resources
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.FrmBaslangic.resources
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.FrmKayitliMal.resources
+C:\Users\alisa\source\repos\DemirbaşListeleme\obj\Debug\DemirbaşListeleme.FrmMuhasebe.resources
